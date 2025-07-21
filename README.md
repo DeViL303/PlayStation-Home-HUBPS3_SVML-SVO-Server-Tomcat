@@ -1,4 +1,4 @@
-# PlayStation_Home_HUBPS3_SVML_SVO_Server_for-Tomcat
+# PlayStation Home HUBPS3_SVML SVO Server (Tomcat WebApp)
 
 Recreated SVO server as a Tomcat java based webapp, Something like it probably was originally. 
 
