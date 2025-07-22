@@ -9,10 +9,10 @@ This is very basic, proof of concept only. This is enough to get older version o
 Credits go mostly to the developers of the original SVO server in Horizon and to the developers of Multiserver - This is based on their work. 
 
 Usage: 
-- I use this with XAMPPs built in Tomcat
+- I use this with XAMPPs built in Tomcat server.
 - Put the HUBPS3_SVML folder into C:\xampp\tomcat\webapps\
-- Change server.xml config from port 8080 to port 10060
-- Requires JDK or JRE installed. Recommended v8.x (eg. jdk-8u202-windows-x64.exe) Newer versions might have issues.
+- Change Tomcat server.xml config from the default port 8080 to port 10060
+- Tomcat Requires JDK or JRE installed. Recommended v8.x (eg. jdk-8u202-windows-x64.exe) Newer versions might have issues.
 - Start Tomcat from XAMPP control panel. 
 
-NOTE: Proof of concept only - Would need a lot more work to be used for more than testing. 
+NOTE: Experimental POC - Would need more work to be used for more than testing/experimenting. 
