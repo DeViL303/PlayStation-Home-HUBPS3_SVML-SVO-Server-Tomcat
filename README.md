@@ -1,5 +1,7 @@
 # PlayStation Home HUBPS3_SVML SVO Server (Tomcat WebApp)
 
+<img width="960" height="915" alt="image" src="https://github.com/user-attachments/assets/2558f2b8-dc1f-48be-a4b7-4e5c6e963b6b" />
+
 Recreated SVO server as a Tomcat java based webapp, Something like it probably was originally. 
 
 This is very basic, proof of concept only. This is enough to get older version of PS Home like 1.32.3 HDK into online mode when used with Horizon from Multiserver for muis/mas/dme etc. 
