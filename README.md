@@ -12,7 +12,7 @@ Usage:
 - I use this with XAMPPs built in Tomcat
 - Put the HUBPS3_SVML folder into C:\xampp\tomcat\webapps\
 - Change server.xml config from port 8080 to port 10060
-- Requires JDK 8x eg jdk-8u202-windows-x64.exe (Newer versions might have issues)
+- Requires JDK or JRE installed. Recommended v8.x (eg. jdk-8u202-windows-x64.exe) Newer versions might have issues.
 - Start Tomcat from XAMPP control panel. 
 
 NOTE: Proof of concept only - Would need a lot more work to be used for more than testing. 
